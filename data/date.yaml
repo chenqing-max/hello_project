@@ -1,0 +1,16 @@
+test_ao:
+  test_ao_001:
+    name: "张三"
+    tel: 18888888888
+    location: "昌平区于辛庄路1号赋腾2005"
+    bianma: 100000
+  test_ao_002:
+    name: "李四"
+    tel: 17777777777
+    location: "昌平区于辛庄路3号赋腾2004"
+    bianma: 200000
+  test_ao_003:
+    name: "王五"
+    tel: 16666666666
+    location: "昌平区于辛庄路5号赋腾2003"
+    bianma: 300000
